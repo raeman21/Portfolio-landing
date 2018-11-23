@@ -1,26 +1,29 @@
-h1 {
+.head1 {
   text-align: center;
   font-size: 50px
   font-family:sans-serif;
   opacity: 0.9
-
-
+}
+.img{
+  align:center
+  border:10px black
+  border-radius:30px
 }
 .bio{
   color: blue
   opacity:0.8
 }
-ul{
+.myclass{
   color: blue;
+  font-style: oblique;
+
+
 }
 
 body {
   background-image: url(../img/zhen-hu-674286-unsplash.jpg);
   background-size: cover;
-  opacity:0.2
+  background-opacity:0.2
   background-position:center;
-  font-style: italic;
-
-
 
 }
