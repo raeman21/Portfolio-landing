@@ -1,29 +1,31 @@
 .head1 {
-  text-align: center;
+  text-align:center;
   font-size: 50px
   font-family:sans-serif;
   opacity: 0.9
 }
 .img{
   align:center
-  border:10px black
+  border:10px white
   border-radius:30px
 }
-.bio{
-  color: blue
+.Bio{
+  color:white
   opacity:0.8
 }
 .myclass{
-  color: blue;
-  font-style: oblique;
-
-
+  color:white;
+  font-style: normal;
+  font-size: 50px
 }
 
-body {
-  background-image: url(../img/zhen-hu-674286-unsplash.jpg);
+.container {
+  background-image: url(../img/15505.jpg);
   background-size: cover;
   background-opacity:0.2
   background-position:center;
+
+}
+.container2 {
 
 }
