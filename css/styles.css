@@ -1,11 +1,11 @@
 h1 {
   font-size: 80px;
-  font-family:fantasy;
+  font-family:Tangerine;
   color: white;
 }
 h2{
   color: white;
-
+  font-family: Tangerine;
 }
 .head1 {
   text-align:center;
@@ -29,14 +29,22 @@ img {
 .resort{
   font-family: monospace;
   color: white;
-  font-size: 20px;
+  font-size: 30px;
 }
 .ping-pong{
   font-family: monospace;
   color: white;
+  font-size: 30px;
+}
+.icon{
+  image-resolution: snap;
+  width: 50px;
 }
 .jq {
   width: 50px;
+}
+.js {
+  width:50px;
 }
 
 .myclass{
@@ -52,5 +60,6 @@ body {
 }
 .container2 {
   font-style: oblique;
-  color: white
+  color: white;
+  font-size: 50px;
 }
