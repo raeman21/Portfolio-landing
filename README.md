@@ -7,7 +7,7 @@
 ## Description
 
 {The application is a brief discriptive static html webpage that has an image of me and one that represents my interests, it is to be used for informational purposes only}
-\##Setup/Installation Requirements
+## Setup/Installation Requirements
 _click the link
 _wait for a few minutes
 _voila!
