@@ -25,7 +25,8 @@ img {
   font-size: 50px;
 }
 li {
-  font-size: 40px
+  font-size: 40px;
+  font-family: sans-serif;
 }
 .resort{
   font-family: monospace;
