@@ -21,11 +21,15 @@ img {
   text-align: justify;
   float: right;
   color:white;
+  font-family:Tangerine;
+  font-size: 50px;
+
 
 }
 .resort{
   font-family: monospace;
   color: white;
+  font-size: 20px
 }
 .ping-pong{
   font-family: monospace;
