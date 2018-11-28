@@ -16,7 +16,7 @@ _click on links
 _great!now you can see my other projects
 {no dependencies necessary to install}
 
-##Link to live site
+## Link to live site
 {https://raeman21.github.io/Portfolio-landing/}
 
 ## Known bugs
