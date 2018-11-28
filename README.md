@@ -15,6 +15,12 @@
 {There no known bugs}
 ## Technologies used
 {Languages used in this project were HTML5 and CSS3.}
+{::nomarkdown}
+
+<img src="img/editedheadshot.jpg">
+
+{:/}
+
 ### License
 MIT License
 
