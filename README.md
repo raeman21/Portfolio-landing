@@ -4,14 +4,22 @@
 
 #### By **{Mandela Rae}**
 
+## AUTHOR
+
+{::nomarkdown}
+
+<img src="img/editedheadshot.jpg">
+
+{:/}
+
 ## Description
 
-{The application is a brief discriptive static html webpage that has an image of me and one that represents my interests, it is to be used for informational purposes only}
+{The application is a brief descriptive static HTML5 webpage that has an image of me and one that represents my interests, it is to be used for informational purposes only}
 ## Setup/Installation Requirements
 _click the link
 _wait for a few minutes
-_voila!
-_webpage open
+_viola!
+_webpage opens
 _click on links
 _great!now you can see my other projects
 {no dependencies necessary to install}
@@ -26,11 +34,7 @@ _great!now you can see my other projects
 ## Technologies used
 
 {Languages used in this project were HTML5 and CSS3.}
-{::nomarkdown}
 
-<img src="img/editedheadshot.jpg">
-
-{:/}
 
 ### License
 
