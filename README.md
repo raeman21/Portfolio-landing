@@ -1,19 +1,27 @@
 # {Personal Portfolio}
+
 ##### {This is a brief informative site about me } {Friday November 23rd 2018}
+
 #### By **{Mandela Rae}**
+
 ## Description
+
 {The application is a brief discriptive static html webpage that has an image of me and one that represents my interests, it is to be used for informational purposes only}
-##Setup/Installation Requirements
-*click the link
-*wait for a few minutes
-*voila!
-*webpage open
-*click on links
-*great!now you can see my other projects
+\##Setup/Installation Requirements
+_click the link
+_wait for a few minutes
+_voila!
+_webpage open
+_click on links
+_great!now you can see my other projects
 {no dependencies necessary to install}
+
 ## Known bugs
+
 {There no known bugs}
+
 ## Technologies used
+
 {Languages used in this project were HTML5 and CSS3.}
 {::nomarkdown}
 
@@ -22,9 +30,10 @@
 {:/}
 
 ### License
+
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [year][Mandela Rae]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
