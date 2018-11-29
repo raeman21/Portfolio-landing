@@ -6,11 +6,7 @@
 
 ## AUTHOR
 
-{::nomarkdown}
-
 <img src="img/editedheadshot.jpg">
-
-{:/}
 
 ## Description
 
