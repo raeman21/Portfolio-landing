@@ -28,7 +28,7 @@
 
 ## Known bugs
 
-{There are no known bugs}{if found kindly contact <mandelar94@gmail.com>}
+{There are no known bugs}{if found kindly contact <mailto:mandelar94@gmail.com>}
 
 ## Technologies used
 

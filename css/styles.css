@@ -5,7 +5,7 @@ h1 {
 }
 h2{
   color: white;
-  font-family: Tangerine;
+  font-family: 'Cinzel', serif;
   font-size: 50px;
   text-align: center;
 }
@@ -23,8 +23,8 @@ img {
   text-align: justify;
   float: right;
   color:white;
-  font-family:Tangerine;
-  font-size: 50px;
+  font-family: 'Cinzel', serif;
+  font-size: 30px;
 }
 li {
   font-size: 40px;
@@ -42,7 +42,7 @@ li {
 }
 .icon{
   image-resolution: snap;
-  width: 50px;
+  width: 30px;
 }
 .jq {
   width: 50px;
