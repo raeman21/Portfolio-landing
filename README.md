@@ -11,17 +11,20 @@
 ## Description
 
 {The application is a brief descriptive static HTML5 webpage that has an image of me and one that represents my interests, it is to be used for informational purposes only}
+
 ## Setup/Installation Requirements
-_click the link
-_wait for a few minutes
-_viola!
-_webpage opens
-_click on links
-_great!now you can see my other projects
+
+\_click the link
+\_wait for a few minutes
+\_viola!
+\_webpage opens
+\_click on links
+\_great!now you can see my other projects
 {no dependencies necessary to install}
 
 ## Link to live site
-{https://raeman21.github.io/Portfolio-landing/}
+
+{<https://raeman21.github.io/Portfolio-landing/}>
 
 ## Known bugs
 
@@ -31,12 +34,11 @@ _great!now you can see my other projects
 
 {Languages used in this project were HTML5 and CSS3.}
 
-
 ### License
 
 MIT License
 
-Copyright (c) [year][Mandela Rae]
+Copyright (c) [year][mandela rae]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
