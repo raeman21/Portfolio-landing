@@ -32,7 +32,7 @@
 
 ## Technologies used
 
-{Languages used in this project were HTML5 and CSS3.}
+{Languages used in this project were HTML5<"img/icons8-html-5-48.png"> and CSS3<"img/icons8-css3-48 (1).png">.}
 
 ### License
 
