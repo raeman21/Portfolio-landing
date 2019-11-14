@@ -1,69 +1,76 @@
 h1 {
   font-size: 80px;
-  font-family:Tangerine;
-  color: white;
+  font-family: Tangerine;
+  color: #2d2327;
 }
-h2{
-  color: white;
-  font-family: 'Cinzel', serif;
+h2 {
+  color: #2d2327;
+  font-family: "Cinzel", serif;
   font-size: 50px;
   text-align: center;
 }
 .head1 {
-  text-align:center;
+  text-align: center;
   font-size: 70px;
-  font-family:sans-serif;
-  opacity: 0.9
+  font-family: sans-serif;
+  opacity: 0.9;
 }
 img {
-    border-radius: 50%;
-    width: 100px;
+  border-radius: 50%;
+  width: 100px;
 }
-.Bio{
+.Bio {
   text-align: justify;
   float: right;
-  color:white;
-  font-family: 'Cinzel', serif;
+  color: #2d2327;
+  font-family: "Cinzel", serif;
   font-size: 30px;
 }
-li {
+.li {
   font-size: 40px;
   font-family: sans-serif;
 }
-.resort{
+.resort {
   font-family: monospace;
-  color: white;
+  color: #2d2327;
   font-size: 30px;
 }
-.ping-pong{
+.ping-pong {
   font-family: monospace;
-  color: white;
+  color: #2d2327;
   font-size: 30px;
 }
-.icon{
+
+.curriculum {
+  font-family: monospace;
+  color: #2d2327;
+  font-size: 30px;
+}
+.icon {
   image-resolution: snap;
   width: 30px;
 }
 .jq {
-  width: 50px;
+  width: 30px;
 }
 .js {
-  width:50px;
+  width: 30px;
 }
 
-.myclass{
-  color:white;
+.myclass {
+  color: #2d2327;
   font-style: normal;
   font-size: 50px;
 }
 body {
-  background-image: url(../img/Purple-Abstract.jpg);
+  background: linear-gradient(110deg, #8c93a8 60%, #46b1c9 60%);
   background-size: cover;
-  background-opacity:0.2;
-  background-position:center;
+  mix-blend-mode: luminosity;
+  background-position: center;
 }
 .container2 {
-  font-style: oblique;
-  color: white;
+  font-style: monospace;
+  color: #2d2327;
+  mix-blend-mode: luminosity;
   font-size: 50px;
 }
