@@ -6,8 +6,6 @@
 
 ## AUTHOR
 
-<img src="img/editedheadshot.jpg">
-
 ## Description
 
 {The application is a brief descriptive static HTML5 webpage that has an image of me and one that represents my interests, it is to be used for informational purposes only}
@@ -24,11 +22,10 @@
 
 ## Link to live site
 
-{<https://raeman21.github.io/Portfolio-landing/}>
 
 ## Known bugs
 
-{There are no known bugs}{if found kindly contact <mailto:mandelar94@gmail.com>}
+{There are no known bugs}{if found kindly contact 
 
 ## Technologies used
 
