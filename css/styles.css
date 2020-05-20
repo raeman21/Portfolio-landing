@@ -26,6 +26,9 @@ img {
   font-family: "Cinzel", serif;
   font-size: 30px;
 }
+ul {
+  list-style-type: none;
+}
 .li {
   font-size: 40px;
   font-family: sans-serif;
