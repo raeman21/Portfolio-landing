@@ -1,13 +1,13 @@
-.container{
+.container {
   text-align: center;
 }
 h1 {
   font-size: 80px;
   font-family: Tangerine;
-  color: #2d2327;
+  color: white;
 }
 h2 {
-  color: #2d2327;
+  color: white;
   font-family: "Cinzel", serif;
   font-size: 50px;
   text-align: center;
@@ -23,9 +23,9 @@ img {
   width: 100px;
 }
 .Bio {
-  text-align: justify;
-  float: right;
-  color: #2d2327;
+  text-align: center;
+  float: none;
+  color: white;
   font-family: "Cinzel", serif;
   font-size: 30px;
 }
@@ -38,18 +38,18 @@ ul {
 }
 .resort {
   font-family: monospace;
-  color: #2d2327;
+  color: white;
   font-size: 30px;
 }
 .ping-pong {
   font-family: monospace;
-  color: #2d2327;
+  color: white;
   font-size: 30px;
 }
 
 .curriculum {
   font-family: monospace;
-  color: #2d2327;
+  color: white;
   font-size: 30px;
 }
 .icon {
@@ -64,20 +64,20 @@ ul {
 }
 
 .myclass {
-  color: #2d2327;
+  color: white;
   font-style: normal;
   font-size: 50px;
 }
 
 body {
-  background: linear-gradient(110deg, #8c93a8 60%, #46b1c9 60%);
+  background: linear-gradient(110deg, #0f2027 60%, #203a43 60%);
   background-size: cover;
   mix-blend-mode: luminosity;
   background-position: center;
 }
 .container2 {
   font-style: monospace;
-  color: #2d2327;
+  color: white;
   mix-blend-mode: luminosity;
   font-size: 50px;
 }
